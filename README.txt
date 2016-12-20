@@ -1,0 +1,91 @@
+
+These are in no particular order:
+
+
+Fast intersection of sorted lists with SSE:
+    - https://highlyscalable.wordpress.com/2012/06/05/fast-intersection-sorted-lists-sse/
+    - Also, https://arxiv.org/abs/1401.6399
+
+Fast table-driven base64 encoding/decoding:
+    - https://github.com/powturbo/TurboBase64/blob/master/turbob64d.c
+
+Assembly versions of hash functions / cryptographic algorithms:
+    - t1ha (Go version: https://github.com/dgryski/go-t1ha )
+    - rc5 / rc6 (Go version: https://github.com/dgryski/go-rc5 / https://github.com/dgryski/go-rc6 )
+    - SPECK https://en.wikipedia.org/wiki/Speck_(cipher)
+
+In-memory data layout for Netflix's Hollow:
+    - http://hollow.how/advanced-topics/#in-memory-data-layout
+
+Omnisearch Index Formats
+    - https://blog.twitter.com/2016/omnisearch-index-formats
+
+NORX8 and NORX16: Authenticated Encryption for Low-End Systems
+    - https://eprint.iacr.org/2015/1154
+
+LightMAC: A MAC Mode for Lightweight Block Ciphers:
+    - https://eprint.iacr.org/2016/190.pdf
+
+Fast Deterministic Selection (adaptive QuickSelect)
+    - https://arxiv.org/abs/1606.00484
+
+A Bloom filter based semi-index on q-grams
+    - https://arxiv.org/abs/1507.02989
+
+Faster Population Counts using AVX2 Instructions
+    - https://arxiv.org/abs/1611.07612
+
+Quasi-Succinct Indices (compressed inverted indexes):
+    - http://vigna.di.unimi.it/ftp/papers/QuasiSuccinctIndices.pdf
+
+Efficient Summing over Sliding Windows (stream statistics)
+    - http://arxiv.org/pdf/1604.02450v1.pdf
+
+A Novel Technique for Long-Term Anomaly Detection in the Cloud
+    - https://www.usenix.org/system/files/conference/hotcloud14/hotcloud14-vallis.pdf
+    - Twitter's anomaly detection algorithm
+    - related, http://www.ebaytechblog.com/2015/08/19/statistical-anomaly-detection/
+    - related, http://nerds.airbnb.com/anomaly-detection/
+
+TinySet - An Access Efficient Self Adjusting Bloom Filter Construction
+    - http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-get.cgi/2015/CS/CS-2015-03.pdf
+
+Detecting Change in Data Streams:
+    - https://cs.uwaterloo.ca/~shai/vldb04.pdf
+
+Optimal Probabilistic Cache Stampede Prevention:
+    - http://www.vldb.org/pvldb/vol8/p886-vattani.pdf 
+
+Hierarchical Delta Debugging:
+    - https://blog.acolyer.org/2015/11/17/hierarchical-delta-debugging/
+    - (to go with https://github.com/dgryski/go-ddmin )
+
+FastDTW: Toward Accurate Dynamic Time Warping in Linear Time and Space
+    - http://cs.fit.edu/~pkc/papers/tdm04.pdf
+    - many implementations to use as base, for example https://github.com/slaypni/fastdtw/blob/master/fastdtw.py
+
+Mining frequent items in the time fading model
+    - http://arxiv.org/pdf/1601.03892v1.pdf
+
+Hierarchical Agglomerative Clustering:
+    - http://nlp.stanford.edu/IR-book/html/htmledition/hierarchical-agglomerative-clustering-1.html
+    - needed for https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/rebucket-icse2012.pdf
+    - preliminary implementation of rebucket:  https://github.com/dgryski/go-rebucket
+
+Balanced Allocation: Patience is not a Virtue (FirstDiff load balancing):
+    - http://arxiv.org/abs/1602.08298
+
+Continuously Maintaining Quantile Summaries of the Most Recent N Elements over a Data Stream
+    - http://www.cs.ubc.ca/~xujian/paper/quant.pdf
+
+The Eternal Sunshine of the Sketch Data Structure
+    - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.146.2889&rep=rep1&type=pdf
+
+Copysets and Chainsets: A Better Way to Replicate
+    http://hackingdistributed.com/2014/02/14/chainsets/
+
+A Fast Algorithm for Approximate Quantiles in High Speed Data Streams
+    - http://web.cs.ucla.edu/~weiwang/paper/SSDBM07_2.pdf
+    - this algorithm has haunted me for ages, I could never get my code working
+    - unresponsive authors, details missing from papers, etc
+    - there now appear to be more implementations that could be used as a base
