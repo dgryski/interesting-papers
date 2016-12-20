@@ -1,6 +1,9 @@
 
 These are in no particular order:
 
+LogLog-Beta and More: A New Algorithm for Cardinality Estimation Based on LogLog Counting
+    - https://arxiv.org/abs/1612.02284
+
 Robust benchmarking in noisy environments
     - https://arxiv.org/abs/1608.04295
 
@@ -16,7 +19,6 @@ Fast intersection of sorted lists with SSE:
 
 PAD: Performance Anomaly Detection in Multi-Server Distributed Systems
     https://www.microsoft.com/en-us/research/wp-content/uploads/2014/06/PAD-Performance-Anomaly-Detection-in-Multi-Server-Distributed-Systems.pdf
-
 
 Detecting Abnormal Machine Characteristics in Cloud Infrastructures
     - https://ti.arc.nasa.gov/publications/4268/download/
