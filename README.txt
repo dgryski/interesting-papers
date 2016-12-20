@@ -32,7 +32,6 @@ Fast table-driven base64 encoding/decoding:
 Assembly versions of hash functions / cryptographic algorithms:
     - t1ha (Go version: https://github.com/dgryski/go-t1ha )
     - rc5 / rc6 (Go version: https://github.com/dgryski/go-rc5 / https://github.com/dgryski/go-rc6 )
-    - SPECK https://en.wikipedia.org/wiki/Speck_(cipher)
 
 In-memory data layout for Netflix's Hollow:
     - http://hollow.how/advanced-topics/#in-memory-data-layout
