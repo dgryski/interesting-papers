@@ -1,10 +1,28 @@
 
 These are in no particular order:
 
+Robust benchmarking in noisy environments
+    - https://arxiv.org/abs/1608.04295
+
+New Algorithms for Heavy Hitters in Data Streams
+    - https://arxiv.org/abs/1603.01733
+
+An Optimal Bloom Filter Replacement
+    - http://www.itu.dk/people/pagh/papers/bloom.pdf
 
 Fast intersection of sorted lists with SSE:
     - https://highlyscalable.wordpress.com/2012/06/05/fast-intersection-sorted-lists-sse/
     - Also, https://arxiv.org/abs/1401.6399
+
+PAD: Performance Anomaly Detection in Multi-Server Distributed Systems
+    https://www.microsoft.com/en-us/research/wp-content/uploads/2014/06/PAD-Performance-Anomaly-Detection-in-Multi-Server-Distributed-Systems.pdf
+
+
+Detecting Abnormal Machine Characteristics in Cloud Infrastructures
+    - https://ti.arc.nasa.gov/publications/4268/download/
+
+PerfAugur: Robust Diagnostics for Performance Anomalies in Cloud Services
+    - https://www.microsoft.com/en-us/research/publication/perfaugur-robust-diagnostics-for-performance-anomalies-in-cloud-services/
 
 Fast table-driven base64 encoding/decoding:
     - https://github.com/powturbo/TurboBase64/blob/master/turbob64d.c
