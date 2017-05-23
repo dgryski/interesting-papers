@@ -1,6 +1,13 @@
 
 These are in no particular order:
 
+Simpira: cryptographic permutations designed to be fast on modern 64-bit
+processors, yet provide a comfortable security margin against all
+currently-known attacks.
+    - http://mouha.be/simpira/
+
+A High-Performance Algorithm for Identifying Frequent Items in Data Streams
+    - https://arxiv.org/abs/1705.07001
 
 Autoscaling Bloom Filter: Controlling Trade-off Between True and False Positives
     - https://arxiv.org/abs/1705.03934
