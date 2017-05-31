@@ -6,9 +6,6 @@ processors, yet provide a comfortable security margin against all
 currently-known attacks.
     - http://mouha.be/simpira/
 
-A High-Performance Algorithm for Identifying Frequent Items in Data Streams
-    - https://arxiv.org/abs/1705.07001
-
 Autoscaling Bloom Filter: Controlling Trade-off Between True and False Positives
     - https://arxiv.org/abs/1705.03934
 
@@ -21,14 +18,8 @@ Consistent Hashing with Bounded Loads
 Continuous Top-k Queries over Real-Time Web Streams
     - https://arxiv.org/abs/1610.06500
 
-Partial Key Grouping: Load-Balanced Partitioning of Distributed Streams
-    - https://arxiv.org/abs/1510.07623
-
 A practical index for approximate dictionary matching with few mismatches
     - https://arxiv.org/abs/1501.04948
-
-LogLog-Beta and More: A New Algorithm for Cardinality Estimation Based on LogLog Counting
-    - https://arxiv.org/abs/1612.02284
 
 Robust benchmarking in noisy environments
     - https://arxiv.org/abs/1608.04295
