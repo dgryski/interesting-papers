@@ -1,6 +1,10 @@
 
 These are in no particular order:
 
+
+SimString: A fast and simple algorithm for approximate string matching/retrieval
+http://www.chokkan.org/software/simstring/
+
 Simpira: cryptographic permutations designed to be fast on modern 64-bit
 processors, yet provide a comfortable security margin against all
 currently-known attacks.
@@ -11,9 +15,6 @@ Autoscaling Bloom Filter: Controlling Trade-off Between True and False Positives
 
 Adaptive Cuckoo-Filters
     - https://arxiv.org/abs/1704.06818
-
-Consistent Hashing with Bounded Loads
-    - https://arxiv.org/abs/1608.01350
 
 Continuous Top-k Queries over Real-Time Web Streams
     - https://arxiv.org/abs/1610.06500
