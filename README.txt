@@ -25,12 +25,6 @@ A practical index for approximate dictionary matching with few mismatches
 Robust benchmarking in noisy environments
     - https://arxiv.org/abs/1608.04295
 
-New Algorithms for Heavy Hitters in Data Streams
-    - https://arxiv.org/abs/1603.01733
-
-An Optimal Bloom Filter Replacement
-    - http://www.itu.dk/people/pagh/papers/bloom.pdf
-
 Fast intersection of sorted lists with SSE:
     - https://highlyscalable.wordpress.com/2012/06/05/fast-intersection-sorted-lists-sse/
     - Also, https://arxiv.org/abs/1401.6399
@@ -43,6 +37,9 @@ Detecting Abnormal Machine Characteristics in Cloud Infrastructures
 
 PerfAugur: Robust Diagnostics for Performance Anomalies in Cloud Services
     - https://www.microsoft.com/en-us/research/publication/perfaugur-robust-diagnostics-for-performance-anomalies-in-cloud-services/
+
+Statistical Techniques for Online Anomaly Detection in Data Centers
+    - http://www.hpl.hp.com/techreports/2011/HPL-2011-8.pdf
 
 Fast table-driven base64 encoding/decoding:
     - https://github.com/powturbo/TurboBase64/blob/master/turbob64d.c
