@@ -1,4 +1,8 @@
 
+This is a list of papers I would like to implement, or would like to have an
+implementation of.  This list is likely to change as my interests change,
+including deletions.  Do not expect this list to remain static.
+
 These are in no particular order:
 
 CAMP: A Cost Adaptive Multi-Queue Eviction Policy for Key-Value Stores
