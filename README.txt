@@ -90,9 +90,6 @@ TinySet - An Access Efficient Self Adjusting Bloom Filter Construction
 Detecting Change in Data Streams:
     - https://cs.uwaterloo.ca/~shai/vldb04.pdf
 
-Optimal Probabilistic Cache Stampede Prevention:
-    - http://www.vldb.org/pvldb/vol8/p886-vattani.pdf 
-
 Hierarchical Delta Debugging:
     - https://blog.acolyer.org/2015/11/17/hierarchical-delta-debugging/
     - (to go with https://github.com/dgryski/go-ddmin )
