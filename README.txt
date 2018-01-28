@@ -1,6 +1,8 @@
 
 These are in no particular order:
 
+CAMP: A Cost Adaptive Multi-Queue Eviction Policy for Key-Value Stores
+    - http://dblab.usc.edu/users/papers/CAMPTR.pdf
 
 SimString: A fast and simple algorithm for approximate string matching/retrieval
 http://www.chokkan.org/software/simstring/
