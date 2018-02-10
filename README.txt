@@ -5,6 +5,9 @@ including deletions.  Do not expect this list to remain static.
 
 These are in no particular order:
 
+SONIK:  Efficient In-situ All Item Rank Generation using Bit Operations
+    - https://arxiv.org/abs/1605.06992
+
 CAMP: A Cost Adaptive Multi-Queue Eviction Policy for Key-Value Stores
     - http://dblab.usc.edu/users/papers/CAMPTR.pdf
 
