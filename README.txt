@@ -129,3 +129,6 @@ A Fast Algorithm for Approximate Quantiles in High Speed Data Streams
     - this algorithm has haunted me for ages, I could never get my code working
     - unresponsive authors, details missing from papers, etc
     - there now appear to be more implementations that could be used as a base
+
+Weighted Distributed Hash Tables
+    - https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.414.9353&rep=rep1&type=pdf
